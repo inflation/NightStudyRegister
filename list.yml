@@ -1,0 +1,36 @@
+class:
+  number: 503
+  people:
+    - number: 92073
+      name: "胡纬"
+      nick: "hw"
+    - number: 92058
+      name: "孙傲"
+      nick: "sa"
+    - number: 91012
+      name: "王雯丽"
+      nick: "wwl"
+    - number: 91025
+      name: "吴宸依"
+      nick: "wiy"
+    - number: 92085
+      name: "裴澄宇"
+      nick: "piy"
+    - number: 72012
+      name: "刘雪岩"
+      nick: "lxy"
+    - number: 92131
+      name: "郑家蔚"
+      nick: "vjw"
+    - number: 91003
+      name: "管蔚然"
+      nick: "gwr"
+    - number: 92113
+      name: "李引"
+      nick: "ly"
+    - number: 71024
+      name: "段宜宏"
+      nick: "dyh"
+    - number: 92111
+      name: "石信捷"
+      nick: "uxj"
